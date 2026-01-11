@@ -13,7 +13,11 @@ overall performance, growth trends, customer purchasing behavior, and refund act
 
 ## Insights Deep-Dive
 ### Overall trends
-The trends across years
+Analysis of sales and order count over time shows a consistent seasonal pattern across all years. Sales and order volume typically decline in between Q3 and Q4 followed by a recovery. The strongest increase occurring towards Q1-Q2. Notably, this seasonal pattern persists even during the sales surge observed in 2020, indicating that the dips are structural rather than event-driven. This suggests that proactive, time-targeted marketing campaigns ahead of these periods could help mitigate recurring declines.
+
+<img width="1000" height="800" alt="image" src="https://github.com/user-attachments/assets/3ebdcda5-c39f-4056-a9a6-d42a4123a97d" />
+
+
 
 #### Products
 The trends across products
