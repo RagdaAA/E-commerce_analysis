@@ -6,17 +6,38 @@ TechSphere is a global direct-to-consumer e-commerce company specializing in con
 TechSphere operates across four key regions:
 North America (NA), Europe, Middle East & Africa (EMEA), Asia-Pacific (APAC) & Latin America (LATAM)
 
-As a data-driven organization, TechSphere uses sales and customer data to monitor growth, evaluate strategic initiatives, and optimize product performance across regions.
+TechSphere uses sales and customer data to monitor growth, evaluate strategic initiatives, and optimize product performance across regions. This analysis focuses on key commercial metrics to support business decision-making.
 
-## Sales Analysis (2019–2022)
-This project analyzes TechSphere’s sales data from 2019 to 2022 to assess overall performance, growth trends, customer purchasing behavior, and refund activity. The analysis focuses on key commercial metrics used by stakeholders to support business decision-making.
-
+## TechSphare Summary (2019–2022)
+TechSphere’s sales data from 2019 to 2022 show ....
+overall performance, growth trends, customer purchasing behavior, and refund activity.
 
 ### Entity Relationship Diagram
 
-
-
 ## Insights Deep-Dive
+### Overall trends
+The trends across years
+
+#### Products
+The trends across products
+
+#### Regions
+The trends across regions
+
+### Loyalty program
+How is the loylty program doing?
+
+### Refunds
+How are refunds affecting the business?
+
+## Recommendations
+### Overall trends
+#### Products
+#### Regions
+
+### Loyalty program
+
+### Refunds
 
 
-#
+## Assumptions
