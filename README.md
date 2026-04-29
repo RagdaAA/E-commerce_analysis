@@ -26,7 +26,9 @@ Taken together, Bose Headphones and Apple iPhone underperform across sales and o
 
 
 #### Regions
-The trends across regions
+North America dominates TechNet’s performance, generating approximately 50% of total revenue and the highest order volume. However, APAC records the highest AOV, followed by North America, suggesting stronger high-value purchasing behaviour in these two regions. LATAM underperforms significantly, contributing around 6% of total revenue.
+
+Across regions, the same four products; MacBook, ThinkPad, AirPods, and Gaming Monitor, consistently lead sales. Sales trends over time show similar seasonal patterns across all regions, with no region overtaking another during peak periods, indicating shared global seasonality.
 
 ### Loyalty program
 How is the loylty program doing?
