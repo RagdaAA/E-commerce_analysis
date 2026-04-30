@@ -39,7 +39,12 @@ Overall, the loyalty program has contributed positively to sales performance for
 
 
 ### Refunds
-How are refunds affecting the business?
+The data shows that refund activity increases in line with higher sales volumes, while overall refund levels remain relatively low over time. However, refunded orders tend to have a higher-than-average AOV, indicating that returns disproportionately impact higher-value purchases. The highest refund rates are observed for ThinkPad (16.2%), MacBook (16.0%), and iPhone (9.8%). ThinkPad is particularly notable: despite being among the higher-selling products, it also has the highest refund rate across both loyalty and non-loyalty customers.
+
+North America consistently shows the highest refunds across the observed period. In 2019 and 2020, NA recorded refund rates of approximately 6% and 10%, respectively, making it the leading region in terms of returns. In 2021, refund rates declined, with NA and EMEA both reporting similar levels of around 4%. However, it is important to note that no refunds were recorded after July 2021, meaning that the 2021 figures are based only on partial-year data and should be interpreted with caution.
+
+In terms of overall volume, NA accounts for a disproportionately large share of total returns, representing approximately 53–58% of all refunds across all years. The remaining returns are distributed across APAC, EMEA, and LATAM combined.
+
 
 ## Recommendations
 ### Overall trends
