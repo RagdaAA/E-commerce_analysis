@@ -31,7 +31,12 @@ North America dominates TechNet’s performance, generating approximately 50% of
 Across regions, the same four products; MacBook, ThinkPad, AirPods, and Gaming Monitor, consistently lead sales. Sales trends over time show similar seasonal patterns across all regions, with no region overtaking another during peak periods, indicating shared global seasonality.
 
 ### Loyalty program
-How is the loylty program doing?
+At the end of 2019 loyalty and non-loyalty customers exhibited similar AOV, while non-loyalty customers placed significantly more orders. This suggests that loyalty customers were purchasing higher-priced items despite lower order volume. However, this pattern was short-lived and did not persist into 2020, instead AOV stayed consistently level throughout 2020. On the otherhand, the surge in overall sales observed in 2020 was primarily driven by non-loyalty customers, indicating that growth during this period was largely acquisition-based rather than retention-driven. 
+
+From 2021 onward, loyalty customers consistently outperformed non-loyalty customers in both order count and AOV. This pattern indicates stronger retention and purchasing behaviour among loyalty members, even during periods of declining overall sales. An exception occurs in the final quarter of 2022, where loyalty customer activity declined.
+
+Overall, the loyalty program has contributed positively to sales performance for over two years and should be maintained, with targeted marketing to sustain engagement.
+
 
 ### Refunds
 How are refunds affecting the business?
