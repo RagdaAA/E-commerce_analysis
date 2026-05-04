@@ -6,15 +6,11 @@ TechNet is a global direct-to-consumer e-commerce company specializing in consum
 As a data analyst at TechNet, this analysis was conducted to help business stakeholders understand how sales performance and customer behavior have evolved over time, particularly during and after the COVID-19 pandemic. By examining historical sales data from 2019 to 2022, the goal is to identify key opportunities to drive sustainable revenue growth in a post-pandemic market.
 
 ## Executive Summary
+|Strategic Focus|Recommendation|
+|---|---|
 | Revenue Growth | <ul><li>Recommendation 1 </li><li>Recommendation 2</li></ul> |
-| Market Efficiency | 1. |
-| Customer Profability | 1. |
-
-
-
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+| Market Efficiency | <ul><li>Recommendation 1 </li><li>Recommendation 2</li></ul> |
+| Customer Profability | <ul><li>Recommendation 1 </li><li>Recommendation 2</li></ul> |
 
 
 ### Entity Relationship Diagram
