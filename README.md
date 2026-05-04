@@ -3,10 +3,12 @@
 ## Company Overview
 TechNet is a global direct-to-consumer e-commerce company specializing in consumer electronics, including computers, mobile phones, and audio accessories. The company sells exclusively through its online platform across four regions, allowing full control over pricing, promotions, and customer engagement.
 
-As a data analyst at TechNet, this analysis was conducted to help business stakeholders understand how sales performance and customer behavior have evolved over time, particularly during and after the COVID-19 pandemic. By examining historical sales data from 2019 to 2022, the goal is to identify what drove growth, which strategies were effective, and how TechNet can maintain strong sales performance in a post-pandemic market.
+As a data analyst at TechNet, this analysis was conducted to help business stakeholders understand how sales performance and customer behavior have evolved over time, particularly during and after the COVID-19 pandemic. By examining historical sales data from 2019 to 2022, the goal is to identify key opportunities to drive sustainable revenue growth in a post-pandemic market.
 
-## TechNet Summary (2019–2022)
-TechNet’s sales data from 2019 to 2022 show an 162% increase in the year 2020 followed by a steady decrease in sales back to the same levels as spring 2019. Similar pattern is also seen in AVO and the number of orders indicating that customer purchasing behaviour for the year 2022 is back to pre-pandemic levels. These trends are seen across all regions TechNet operates in.
+## Executive Summary
+|Revenue Growth| <ul><li>Recommendation 1 </li><li>Recommendation 2</li></ul>|
+|Market Effucuency|1.|
+|Customer Profability|1.|
 
 
 ### Entity Relationship Diagram
