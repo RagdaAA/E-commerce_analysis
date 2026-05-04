@@ -11,9 +11,10 @@ As a data analyst at TechNet, this analysis was conducted to help business stake
 | Customer Profability | 1. |
 
 
-|Revenue Growth| <ul><li>Recommendation 1 </li><li>Recommendation 2</li></ul>|
-|Market Efficiency|1.|
-|Customer Profability|1.|
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
 
 
 ### Entity Relationship Diagram
