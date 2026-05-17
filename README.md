@@ -43,6 +43,10 @@ To build a more resilient and scalable revenue model, TechNet should focus on tw
 
 ### Market Efficiency: Regional Performance 
 
+|Revenue and High-value Purchases are driven by NA and APAC|
+|---|
+|<p style="text-align: center"><img src="https://github.com/RagdaAA/E-commerce_analysis/blob/091e3e4b83c68f04cdf0424c2f866f5b787573fe/Regional%20Performance.jpg"></p>|
+
 #### Key insights
 North America dominates TechNet’s performance, with the highest order volume and generating approximately 50% of total revenue. APAC records the highest AOV, followed by North America, suggesting stronger high-value purchasing behaviour in these two regions. LATAM underperforms significantly in all categories, contributing only around 6% of total revenue.
 
@@ -53,10 +57,15 @@ Sales trends over time show similar seasonal patterns across all regions, with n
 <ul><li>It is recommended to re-evaluate the current market strategy for LATAM, including distribution, marketing spend, and product-market fit, to determine whether adjustments or resource reallocation are warranted.</li></ul>
 
 
-
-
 ### Customer Strategy: Loyalty & Refunds 
 
+|Loyalty Customers Became a Larger Driver of Revenue Growth After March 2021|
+|---|
+|![Revenue by loyalty vs non-loyalty customers](https://github.com/RagdaAA/E-commerce_analysis/blob/091e3e4b83c68f04cdf0424c2f866f5b787573fe/Loyalty%20program.jpg)|
+
+|Refunds Impact High-AOV Products|Over 50% of Refunds Originate in North America|
+|---|---|
+|![Refunds per product](https://github.com/RagdaAA/E-commerce_analysis/blob/091e3e4b83c68f04cdf0424c2f866f5b787573fe/Refund_rate%20product.jpg)|<p style="text-align: center"><img src="https://github.com/RagdaAA/E-commerce_analysis/blob/091e3e4b83c68f04cdf0424c2f866f5b787573fe/refund%20region.jpg"></p>|
 
 #### Key insights
 Customer behaviour analysis shows a clear shift from acquisition-driven growth during the 2020 surge to retention-driven performance in the following years. While non-loyalty customers drove the temporary spike in sales during 2020, loyalty customers have consistently outperformed since 2021 in both order volume and average order value (AOV), indicating stronger long-term value and engagement.
@@ -68,7 +77,7 @@ To improve overall customer profitability, TechNet should focus on two key actio
 
 <ul><li> Increase customer lifetime value through loyalty retention and expansion by maintaining the loyalty program and targeting high-value, non-loyalty customers for conversion. Additionally, re-engagement strategies should be implemented to address the decline in loyalty activity observed in late 2022. </li>
 
-<li> Protect revenue by reducing refund rates on high-value products through targeted investigation into root causes, such as product quality issues, customer expectations, or fulfilment experience—particularly within North America. </li></ul>
+<li> Protect revenue by reducing refund rates on high-value products through targeted investigation into root causes, such as product quality issues, customer expectations, or fulfilment experience particularly within North America. </li></ul>
 
 
 
