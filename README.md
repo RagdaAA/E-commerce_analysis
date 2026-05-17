@@ -21,10 +21,10 @@ Based on sales, product, regional, and customer behaviour analysis, three key op
 
 ### Revenue Growth: Product & Sales Trends 
 
-<p float="left">
-<img src="https://github.com/RagdaAA/E-commerce_analysis/blob/c47437fafe467e05567a22551966be373fa07ceb/graph_1%20v4.jpg" width="49%"/>
-<img src="https://github.com/RagdaAA/E-commerce_analysis/blob/b694088ecd4f7d9cc770a4c1186665aed7cb94f8/Treemap2.jpg" width="49%"/>
-</p>
+|Sales Consistently Decline Between Q3–Q4 Across All Years, Revealing Predictable Seasonal Slowdowns|A Small Group of Products Drive Majority of TechNet’s Revenue|
+|---|---|
+|![Seasonal Decline every Q3](https://github.com/RagdaAA/E-commerce_analysis/blob/c47437fafe467e05567a22551966be373fa07ceb/graph_1%20v4.jpg)|![Few products behind majority of revenue](https://github.com/RagdaAA/E-commerce_analysis/blob/b694088ecd4f7d9cc770a4c1186665aed7cb94f8/Treemap2.jpg)|
+
 
 #### Key insights
 TechNet experienced a 162% surge in sales during 2020; however, by 2022, revenue, order volume, and average order value (AOV) all returned to pre-pandemic levels. This indicates that the growth was driven by short-term external demand rather than scalable, internal growth strategies.
