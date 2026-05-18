@@ -15,7 +15,13 @@ Based on sales, product, regional, and customer behaviour analysis, three key op
 | Customer Profability | <ul><li> Increase customer lifetime value by continuing and optimizing the loyalty program </li><li> Protect revenue by reducing refunds, particularly for high-AOV products (ThinkPad, MacBook) </li></ul> |
 
 
-### Entity Relationship Diagram
+### Data Structure
+TechNet’s database contains 108,127 records across four relational tables; orders, customers, geo_lookup, and order_status. The data captures customer transactions, purchasing behavior, refund activity, and regional information hence enabling analysis across sales performance, customer retention, product trends, and geographic markets. The tables were joined to evaluate TechNet's business performance between 2019-2022. 
+
+An Entity Relationship Diagram illustrating the database structure can be found [here](https://github.com/RagdaAA/E-commerce_analysis/blob/e30169d6fd7850898c5ece5ed84e47047e3a9341/Viz/ERD2.png).
+
+---
+
 
 ## Insights Deep-Dive
 
@@ -70,7 +76,7 @@ Sales trends over time show similar seasonal patterns across all regions, with n
 #### Key insights
 Customer behaviour analysis shows a clear shift from acquisition-driven growth during the 2020 surge to retention-driven performance in the following years. While non-loyalty customers drove the temporary spike in sales during 2020, loyalty customers have consistently outperformed since 2021 in both order volume and average order value (AOV), indicating stronger long-term value and engagement.
 
-At the same time, refund patterns reveal a critical source of revenue leakage. Refund rates are disproportionately high for high-AOV products such as ThinkPad (~16.2%), MacBook (~16.0%), and iPhone (~9.8%), meaning that the most valuable transactions carry the highest risk of reversal. Additionally, North America accounts for over half of all refunds, suggesting region-specific drivers of returns.
+At the same time, refund patterns reveal a critical source of revenue leakage. Refund rates are disproportionately high for high-AOV products such as ThinkPad (~11.8%), MacBook (~11.4%), and iPhone (~7.6%), meaning that the most valuable transactions carry the highest risk of reversal. Additionally, North America accounts for over half of all refunds, suggesting region-specific drivers of returns.
 
 #### Recommendation
 To improve overall customer profitability, TechNet should focus on two key actions
