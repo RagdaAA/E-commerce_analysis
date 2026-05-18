@@ -1,4 +1,6 @@
-# TechNet
+<div align="center">
+<img width="634" height="357" alt="TechNet Logo 1" src="https://github.com/user-attachments/assets/d1cbfb3f-4791-418b-a003-2a03be8b5e4e" />
+</div>
 
 ## Company Overview
 TechNet is a global direct-to-consumer e-commerce company specializing in consumer electronics, including computers, mobile phones, and audio accessories. The company sells exclusively through its online platform across four regions, allowing full control over pricing, promotions, and customer engagement.
