@@ -12,7 +12,7 @@ Based on sales, product, regional, and customer behaviour analysis, three key op
 
 |Strategic Focus|Recommendation|
 |---|---|
-| Revenue Growth | <ul><li>Use targeted campaigns during perdictable seasonal dips to increase revenue from high-performing customer segments </li><li> Optimize product mix by prioritizing top-performing products (MacBook, AirPods, Gaming Monitor) and reassessing underperformers (Bose) </li></ul> |
+| Revenue Growth | <ul><li>Use targeted campaigns during perdictable seasonal dips to increase revenue from high-performing customer segments </li><li> Optimize product mix by prioritizing top-performing products (MacBook, AirPods, Gaming Monitor) and reassessing underperformers (Bose)</li><li> Increase investment in email marketing and use affiliate/direct channels to convert non-loyalty customers into loyalty members </li></ul> |
 | Region Performance | <ul><li> Reallocate resources toward North America and APAC, which drive the majority of revenue and high-value purchases </li><li> Re-evaluate LATAM strategy as it has low revenue contribution (~6%) </li></ul> |
 | Customer Profability | <ul><li> Increase customer lifetime value by continuing and optimizing the loyalty program </li><li> Protect revenue by reducing refunds, particularly for high-AOV products (ThinkPad, MacBook) </li></ul> |
 
@@ -47,6 +47,25 @@ To build a more resilient and scalable revenue model, TechNet should focus on tw
 <ul><li> Increase revenue from high-performing customer segments by deploying targeted marketing campaigns ahead of predictable seasonal dips (Q3–Q4). These can include time-bound promotions, personalized offers, and re-engagement campaigns to stabilize demand.</li>
 
 <li>Optimize product mix to maximize sales performance by prioritizing high-performing products and reassessing underperforming ones. This may include reducing investment in low-performing products (e.g., Bose, iPhone) and reallocating resources toward products with proven demand and higher contribution to revenue.
+</li></ul>
+
+### Revenue Growth: Marketing Channel Performance
+
+#### Key insights
+
+Direct traffic consistently accounted for the majority of TechNet’s orders between 2019–2022, representing approximately 75–82% of total purchases. However, while Direct remained the dominant acquisition channel, order activity from non-loyalty customers steadily declined after the pandemic surge in 2020.
+
+Email marketing showed stronger long-term growth compared to Affiliate and Social Media channels. Although order volume through Email peaked in 2021 and declined slightly in 2022, levels remained above pre-pandemic performance for both loyalty and non-loyalty customers, indicating sustained channel growth over time.
+
+Customer behaviour also differed significantly by channel. Non-loyalty customers accounted for the majority of orders originating through Affiliate and Direct channels, whereas loyalty customers were slightly more likely to purchase through Email marketing. This suggests that Email campaigns are more effective at driving repeat engagement and retention behaviour.
+
+Affiliate marketing showed the weakest long-term performance, with non-loyalty order volume declining below pre-pandemic levels by 2022.
+
+#### Recommendation
+
+<ul><li> To support more sustainable revenue growth, TechNet should increase investment in Email marketing as it has demonstrated stronger long-term performance and engagement compared to Affiliate and Social Media channels.</li>
+
+<li>Additionally, Direct and Affiliate channels should be used more strategically to convert high-value non-loyalty customers into loyalty members through personalized offers, onboarding campaigns, and retention incentives. This would help strengthen customer retention and increase long-term customer value.
 </li></ul>
 
 ### Market Efficiency: Regional Performance 
