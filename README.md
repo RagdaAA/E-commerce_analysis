@@ -14,7 +14,7 @@ Based on sales, product, regional, and customer behaviour analysis, three key op
 |---|---|
 | Revenue Growth | <ul><li>Use targeted campaigns during perdictable seasonal dips to increase revenue from high-performing customer segments </li><li> Optimize product mix by prioritizing top-performing products (MacBook, AirPods, Gaming Monitor) and reassessing underperformers (Bose)</li><li> Protect revenue by reducing refunds, particularly for high-AOV products (ThinkPad, MacBook) </li></ul> |
 | Region Performance | <ul><li> Reallocate resources toward North America and APAC, which drive the majority of revenue and high-value purchases </li><li> Re-evaluate LATAM strategy as it has low revenue contribution (~6%) </li></ul> |
-| Customer Profability | <ul><li> Increase customer lifetime value by continuing and optimizing the loyalty program </li><li> Increase investment in email marketing and use affiliate/direct channels to convert non-loyalty customers into loyalty members </li></ul> |
+| Customer Profability | <ul><li> Increase customer lifetime value by continuing and optimizing the loyalty program </li><li> Increase investment in email marketing and use affiliate/direct channels to convert non-loyalty customers into loyalty members </li><li> Increase repeat purchases through retention-focused incentives and Email re-engagement campaigns </li></ul> |
 
 
 ### Data Structure
@@ -108,21 +108,46 @@ To improve overall customer profitability, TechNet should focus on NNNN key acti
 
 ### Customer Strategy: Marketing Channel Performance
 
+GRAPH : Email Marketing Showed Stronger Long-Term Performance Than Other Marketing Channels
+
 #### Key insights
 
-Direct traffic consistently accounted for the majority of TechNet’s orders between 2019–2022, representing approximately 75–82% of total purchases. However, while Direct remained the dominant acquisition channel, order activity from non-loyalty customers steadily declined after the pandemic surge in 2020.
+Direct traffic consistently generated the majority of TechNet’s revenue between 2019–2022, accounting for approximately 83% of total sales. Email marketing followed as the second strongest channel at around 12%, while Affiliate and Social Media contributed significantly less.
 
-Email marketing showed stronger long-term growth compared to Affiliate and Social Media channels. Although order volume through Email peaked in 2021 and declined slightly in 2022, levels remained above pre-pandemic performance for both loyalty and non-loyalty customers, indicating sustained channel growth over time.
+Over time, both Direct and Email channels remained above pre-pandemic levels. However, when segmented by customer type, a different trend emerged. Growth in the Direct channel was primarily driven by loyalty customers, while non-loyalty customer orders through Direct steadily declined after the 2020 pandemic surge. In contrast, Email marketing maintained stronger long-term performance across both loyalty and non-loyalty customers.
 
-Customer behaviour also differed significantly by channel. Non-loyalty customers accounted for the majority of orders originating through Affiliate and Direct channels, whereas loyalty customers were slightly more likely to purchase through Email marketing. This suggests that Email campaigns are more effective at driving repeat engagement and retention behaviour.
-
-Affiliate marketing showed the weakest long-term performance, with non-loyalty order volume declining below pre-pandemic levels by 2022.
+Customer behaviour also differed by channel. Non-loyalty customers accounted for the majority of Affiliate and Direct channel orders, whereas loyalty customers were slightly more likely to place orders through Email marketing. This suggests that Email campaigns are more effective at driving repeat engagement and retention behaviour.
 
 #### Recommendation
 
-<ul><li> To support more sustainable revenue growth, TechNet should increase investment in Email marketing as it has demonstrated stronger long-term performance and engagement compared to Affiliate and Social Media channels.</li>
+<ul><li> To support more sustainable long-term revenue growth, TechNet should further invest in Email marketing as it demonstrated the strongest and most consistent performance across both loyalty and non-loyalty customer groups.</li>
 
-<li>Additionally, Direct and Affiliate channels should be used more strategically to convert high-value non-loyalty customers into loyalty members through personalized offers, onboarding campaigns, and retention incentives. This would help strengthen customer retention and increase long-term customer value.
+<li>Additionally, Direct and Affiliate channels should be used more strategically to convert non-loyalty customers into loyalty members through targeted incentives such as welcome rewards, bonus points, and loyalty-program promotions. </li>
+
+<li>Lastly, TechNet should consider reassessing Social Media marketing spend due to its limited contribution to overall revenue.
+</li></ul>
+
+
+### Customer Strategy: Repeat Purchase Behaviour
+
+GRAPH : Repeat Purchases Declined Over Time Despite Growth in Loyalty Membership
+
+#### Key insights
+The majority of TechNet’s orders came from first-time buyers, accounting for approximately 80% of all purchases, while only 17% of customers placed a second order. This indicates that a large portion of customers do not return after their initial purchase, highlighting an opportunity to improve customer retention and long-term customer value.
+
+Repeat purchase behaviour also weakened over time. In 2019, approximately 25% of customers placed repeat orders, declining to around 18% by 2022. This suggests that while TechNet experienced strong acquisition during the pandemic period, long-term customer retention did not improve at the same pace.
+
+When segmented by customer type, non-loyalty customers accounted for a larger share of repeat purchases than loyalty members. This is unexpected, as loyalty programs are typically designed to increase repeat purchasing behaviour. The findings suggest that the current loyalty strategy may be more effective at driving initial sign-ups than encouraging long-term repeat engagement.
+
+Across marketing channels, Email was the only channel where loyalty customers showed stronger repeat purchase behaviour compared to non-loyalty customers. This indicates that Email marketing is more effective at re-engaging customers after their first purchase.
+
+#### Recommendation
+
+To improve customer profitability and long-term retention, TechNet should focus on increasing repeat purchases through targeted re-engagement strategies.
+
+<ul><li>Email marketing should play a central role in this strategy, as it demonstrated the strongest performance in driving repeat purchases among loyalty customers. Additionally, TechNet should evaluate whether the current loyalty program structure effectively incentivizes repeat purchasing behaviour, particularly among newly acquired members.</li>
+
+<li>Targeted retention incentives such as follow-up promotions, bonus points, and personalized product recommendations could help convert more first-time buyers into repeat customers and increase customer lifetime value.
 </li></ul>
 
 
