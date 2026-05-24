@@ -14,7 +14,7 @@ Based on sales, product, regional, and customer behaviour analysis, three key op
 |---|---|
 | Revenue Growth | <ul><li>Use targeted campaigns during perdictable seasonal dips to increase revenue from high-performing customer segments </li><li> Optimize product mix by prioritizing top-performing products (MacBook, AirPods, Gaming Monitor) and reassessing underperformers (Bose)</li><li> Protect revenue by reducing refunds, particularly for high-AOV products (ThinkPad, MacBook) </li></ul> |
 | Region Performance | <ul><li> Reallocate resources toward North America and APAC, which drive the majority of revenue and high-value purchases </li><li> Re-evaluate LATAM strategy as it has low revenue contribution (~6%) </li></ul> |
-| Customer Profability | <ul><li> Increase customer lifetime value by continuing and optimizing the loyalty program </li><li> Increase investment in email marketing and use affiliate/direct channels to convert non-loyalty customers into loyalty members </li><li> Increase repeat purchases through retention-focused incentives and Email re-engagement campaigns </li></ul> |
+| Customer Profability | <ul><li> Increase repeat purchases by continuing and optimizing the loyalty program </li><li> Use affiliate/direct channels to convert non-loyalty customers into loyalty members </li><li> Utalize Email re-engagement campaigns to imrove retention and re-engagement performance</li></ul> |
 
 
 ### Data Structure
